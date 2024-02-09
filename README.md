@@ -1,1 +1,3 @@
 # BIT
+
+welcome to github
